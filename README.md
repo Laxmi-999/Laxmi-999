@@ -6,12 +6,14 @@ I'm learning full-stack web development with a focus on the **MERN stack** (Mong
 
 ## What I'm Learning
 
-- React.js, Next.js, and Tailwind CSS for building interfaces
-- Node.js and Express.js for backend development
-- MongoDB, Firebase, and Supabase for working with data
-- Git and GitHub for version control and collaboration
+- **JavaScript** and **TypeScript** for building logic and dynamic behavior
+- **React.js**, **Next.js**, and **Tailwind CSS** for creating user interfaces
+- **Node.js** and **Express.js** for backend development
+- **MongoDB**, **Firebase**, and **Supabase** for managing databases
+- **Git** and **GitHub** for version control and collaboration
+- Learning by doing through personal and project-based practice
 
-I'm currently enrolled in a MERN stack training program, and I'm also working on personal projects to build practical skills.
+I'm currently enrolled in a MERN stack training program, and I'm working on projects to apply what I learn in real scenarios.
 
 ---
 
@@ -43,6 +45,10 @@ These small apps helped me practice JavaScript and React by focusing on logic, U
 
 ---
 
+## Portfolio
+
+You can explore more of my work here:  
+**[My Portfolio](https://portfolio-git-main-laxmi-regmis-projects.vercel.app/)**
 
 ---
 
