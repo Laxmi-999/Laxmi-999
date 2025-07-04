@@ -19,17 +19,32 @@ I'm currently enrolled in a MERN stack training program, and I'm working on proj
 
 ## Projects
 
+### ▪ Chat Application  
+**[Live Demo](https://chat-app-brown-xi-79.vercel.app/)**  
+A real-time chat application built using the MERN stack and Socket.IO.
+
+- Users can send and receive messages in real-time
+- Frontend built with React.js and styled with Tailwind CSS
+- Backend developed with Node.js, Express, and MongoDB
+- Socket.IO used for real-time communication between users
+
+---
+
 ### ▪ E-commerce Web Application  
 **[Live Demo](https://e-commerce-csn3-git-master-laxmi-regmis-projects.vercel.app/)**  
-A simple shopping platform with product listings, user login, and cart functionality.  
-Built using React, Tailwind CSS, Express, and Node.js.
+A simple shopping platform with product listings, user login, and cart functionality.
+
+- Built using React, Tailwind CSS, Express, and Node.js
+- Implements basic authentication and responsive UI
 
 ---
 
 ### ▪ Story Sharing Platform  
 **[Live Demo](https://12-my-blog.vercel.app/)**  
-A basic platform where users can share and browse short stories.  
-Used Supabase and Firebase for backend services.
+A basic platform where users can share and browse short stories.
+
+- Used Supabase and Firebase for backend and authentication
+- Clean and minimal UI built with React and Tailwind CSS
 
 ---
 
