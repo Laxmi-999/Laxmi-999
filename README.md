@@ -58,12 +58,7 @@ A basic platform where users can share and browse short stories.
 
 These small apps helped me practice JavaScript and React by focusing on logic, UI, and user interaction.
 
----
 
-## Portfolio
-
-You can explore more of my work here:  
-**[My Portfolio](https://portfolio-git-main-laxmi-regmis-projects.vercel.app/)**
 
 ---
 
