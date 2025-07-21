@@ -1,6 +1,6 @@
 # Hello, I'm Laxmi Regmi
 
-I'm learning full-stack web development with a focus on the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I enjoy building small projects to practice what I learn and improve step by step. My main focus is writing clean code, understanding how things work, and becoming better with each project.
+I'm learning full-stack web development with a focus on the **MERN stack**  (MongoDB, Express.js, React.js, Node.js) with Next.js. I enjoy building small projects to practice what I learn and improve step by step. My main focus is writing clean code, understanding how things work, and becoming better with each project.
 
 ---
 
